@@ -21,17 +21,10 @@ The code also includes `OpenAPI` configuration for the `Swagger UI`.
 _Clone the project to your local computer:_
 
 ```sh
-git clone https://github.com/thomassuedbroecker/simple-openai-server-fastapi.git
+git clone https://github.com/chanduswamy06/simple-openai-server-fastapi.git
 ```
 
 ![](/images/2023-11-22_fastapi-01.gif)
-
-_Note:_ 
-
-  * You can find additional information, on how to create a pipeline in the related project: “How to use and set up `Watsonx.ai` in the simple pipeline project”: https://github.com/thomassuedbroecker/simple-qa-pipeline. We reuse code and concepts from that pipeline project.
-  * You can also use the Online editor (github.**dev**) to edit files: `https://github.dev/thomassuedbroecker/simple-openai-server-fastapi`.
-
-_Content_
 
 * [1. Setup of the Windows Machine](#1-setup-windows-machine)
 * [2. Setup of the Python environment](#2-setup-the-python-environment)
